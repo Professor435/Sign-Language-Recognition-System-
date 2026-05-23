@@ -78,5 +78,5 @@ Softmax (40 classes) → Predicted Sign + Confidence
 
 **Simply download `signspeak_ai.html`, open it in Chrome/Firefox/Edge, allow camera access, and start signing!** The system will track your hands, build a 30-frame sequence, run it through the neural network, and display the predicted sign with confidence score in real-time.
 
-for more contact (professorshami435@gmail.com)
+for FYP's or more interesting projects contact us (professorshami435@gmail.com)
 
